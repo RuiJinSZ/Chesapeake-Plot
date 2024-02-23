@@ -1,0 +1,9 @@
+# observed data
+*.csv
+
+# simulated data
+*.nc
+
+# python artifact
+__pycache__
+envs/
